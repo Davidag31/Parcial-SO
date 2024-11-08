@@ -1,4 +1,4 @@
-# Parrcial3 Sistemas Operativos
+# Parcial3 Sistemas Operativos
 Demostrar si la premisa:
 Si el orden de Encriptar y Comprimir es afectado y dependen del tipo de archivo.
 Tipo formato de archivod: Plano, Binario, imagen o sonido.
